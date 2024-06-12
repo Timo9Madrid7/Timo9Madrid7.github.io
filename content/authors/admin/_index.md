@@ -83,8 +83,18 @@ education:
       - GPA: 3.62/4.0
       - Outstanding Graduated Student
 work:
+  - position: Barista (coffee bartender part-time)
+    company_name: TZL Coffee
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 2024-10-31
+    summary: |
+      - Prepared and served a variety of coffee drinks, including americano-based beverages, teas, and smoothies
+      - Collaborated with team members to ensure fast delivery during busy hours
+      - Designed and developed the front & backend system for the coffee shop
   - position: IT Graduate
-    company_name: Continental
+    company_name: Continental AG
     company_url: ''
     company_logo: ''
     date_start: 2023-11-01
@@ -99,9 +109,9 @@ work:
     date_end: 2023-07-31
     summary: |
       - Traced, reproduced and implemented innovative secure & privacy‑preserving techniques into the private computing platform
-      -  Maintained and upgraded the Spring Boot backend of the private computing platform
-      -  Designed and developed the Flask backend of the user management system
-      -  Traced and wrote blogs for the latest news of federated Learning algorithm
+      - Maintained and upgraded the Spring Boot backend of the private computing platform
+      - Designed and developed the Flask backend of the user management system
+      - Traced and wrote blogs for the latest news of federated Learning algorithm
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

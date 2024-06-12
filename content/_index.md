@@ -56,12 +56,11 @@ sections:
       text: |-
         📢 I started playing football ⚽️ when I was in middle school, and this sport has significantly transformed me. The most noticeable change is my appearance. Before discovering football, I was slightly overweight, but I lost a lot of weight after it became one of my hobbies. I also love watching football matches, especially those of [Real Madrid](https://www.realmadrid.com).
 
-        I also enjoy watching animations, particularly Japanese ones. The first anime I watched was [Guilty Crown](https://en.wikipedia.org/wiki/Guilty_Crown) 📺, and since then, it has become a part of my life. Besides animation, I am passionate about movies, with suspense films being my favorite genre.
+        I also enjoy watching animations 📺, particularly Japanese ones. The first anime I watched was [Guilty Crown](https://guilty-crown.jp/), and since then, it has become a part of my life. Besides animation, I am passionate about movies, with suspense films being my favorite genre.
 
         Traveling is another activity I find enjoyable. While the beautiful scenery is captivating, what I cherish the most are the people who accompany me on these journeys. I have visited several countries, including France, Spain, and Switzerland (💕).
 
-        When I'm at home, I like to play video and PC games 🎮, especially CS
-        . I've played for over 1,600 hours and have achieved the rank of Master Guardian Elite. I also enjoy a variety of other games. You can check out 👁️ my [Steam profile](https://steamcommunity.com/id/Timo9Madrid7/). If you want to play with me, feel free to add me to your friend list.
+        When I'm at home, I like to play video and PC games 🎮, especially CS. I've played for over 1,600 hours and have achieved the rank of Master Guardian Elite. I also enjoy a variety of other games. You can check out 👁️ my [Steam profile](https://steamcommunity.com/id/Timo9Madrid7/). If you want to play with me, feel free to add me to your friend list.
     design:
       columns: '1'
 ---
