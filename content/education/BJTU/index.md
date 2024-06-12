@@ -1,7 +1,7 @@
 ---
 title: Beijing Jiaotong University
 summary: Bachelor of Engineering - Telecommunications
-date: 2020-06-30
+date: 2016-09-01
 type: docs
 math: false
 tags:
@@ -85,7 +85,7 @@ image:
 
 ### China College Students’ Entrepreneurship Competition
 
-#### Feb.2018 - Apr. 2018
+_Feb.2018 - Apr. 2018_
 
 - Our project was about to open and run a gym on campus
 - Used queuing theory to build the model of arrivals and departures of customers
@@ -95,7 +95,7 @@ image:
 
 ### Academic Support Centre
 
-#### Oct. 2017 ‑ Jun. 2018
+_Oct. 2017 ‑ Jun. 2018_
 
 - Assisted professors to correct students’ homework and exam papers
 - Held Q&A sessions and answered questions from students
@@ -105,7 +105,7 @@ image:
 
 ### Machine Learning Studies for a Computer Networking Program
 
-#### May. 2019 ‑ Jul. 2019*
+#### May. 2019 ‑ Jul. 2019
 
 - Established a classification model for spam emails via KNN using Python
 - Awarded the Certificate of Completion signed by Nick Feamster, Neubauer Professor of Computer Science, The University of Chicago
