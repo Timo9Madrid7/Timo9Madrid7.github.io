@@ -105,7 +105,7 @@ _Oct. 2017 ‑ Jun. 2018_
 
 ### Machine Learning Studies for a Computer Networking Program
 
-#### May. 2019 ‑ Jul. 2019
+_May. 2019 ‑ Jul. 2019_
 
 - Established a classification model for spam emails via KNN using Python
 - Awarded the Certificate of Completion signed by Nick Feamster, Neubauer Professor of Computer Science, The University of Chicago

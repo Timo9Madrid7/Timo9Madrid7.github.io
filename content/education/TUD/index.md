@@ -45,5 +45,7 @@ image:
 
 ### CS4035 Teaching Assistance
 
+_May. 2019 ‑ Jun. 2019_
+
 - Held offline tutorial session and online Q&A meeting
 - Evaluated submissions of assignments
