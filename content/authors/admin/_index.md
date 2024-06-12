@@ -156,5 +156,8 @@ languages:
 
 ## About Me
 
-<!-- TODO -->
-TODO
+Yuhang is a master's student who graduated from [TUDelft](https://www.tudelft.nl/en/) in 2022, **previously** working in [NSFocus](https://nsfocusglobal.com/) as a security researcher for approximately a year.
+
+His research topics include but are not limited to *Intelligent Security*, *Federated Learning*, *Secure Multiparty Computation*, *Differential Privacy*, and *Machine Learning*.
+
+Note: The contact methods are limited only for the job/research/academic consulting.
