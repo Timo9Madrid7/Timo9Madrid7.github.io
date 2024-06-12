@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Education
+summary: My educational details
 type: landing
 
 cascade:
@@ -11,13 +11,13 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: education
     content:
-      title: Teaching
+      title: Education
       filters:
         folders:
-          - teaching
+          - education
     design:
       view: article-grid
-      columns: 2
+      columns: 4
 ---

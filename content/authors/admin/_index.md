@@ -56,7 +56,7 @@ education:
     date_end: 2026-11-04
     summary: |
       coming soon
-  - area: MSc Embedded Systems - Software&Networks - Cybersecurity
+  - area: MSc Embedded Systems
     institution: Delft University of Technology
     date_start: 2020-08-30
     date_end: 2022-08-25
