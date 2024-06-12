@@ -37,6 +37,12 @@ profiles:
     url: https://github.com/Timo9Madrid7
     lrl: https://scholar.google.com/citations?user=3nkoLDcAAAAJ&hl=en
     label: Google Scholar
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yuhangt1an/
+    label: LinkedIn
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=3nkoLDcAAAAJ&hl=en
+    label: Google Scholar
 
 interests:
   - Artificial Intelligence
