@@ -97,7 +97,7 @@ work:
     company_name: Continental AG
     company_url: ''
     company_logo: ''
-    date_start: 2023-11-01
+    date_start: 2023-09-01
     date_end: 2024-01-31
     summary: |
       - A rotational program in Cybersecurity | Data Science | Cloud Solutions | IT Architecture
