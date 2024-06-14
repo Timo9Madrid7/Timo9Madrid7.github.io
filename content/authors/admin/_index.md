@@ -156,6 +156,24 @@ skills:
         description: ''
         percent: 20
         icon: devicon/react
+  # - name: Hobbies
+  #   items:
+  #     - name: Football
+  #       description: ''
+  #       percent: 100
+  #       icon:
+  #     - name: Animation&Movie
+  #       description: ''
+  #       percent: 80
+  #       icon:
+  #     - name: Traveling
+  #       description: ''
+  #       percent: 70
+  #       icon:
+  #     - name: PC Games
+  #       description: ''
+  #       percent: 90
+  #       icon:
 
 languages:
   - name: English
@@ -166,8 +184,6 @@ languages:
 
 ## About Me
 
-Yuhang is a master's student who graduated from [TUDelft](https://www.tudelft.nl/en/) in 2022, **previously** working in [NSFocus](https://nsfocusglobal.com/) as a security researcher for approximately a year.
+Yuhang received his master's degree at [TUDelft](https://www.tudelft.nl/en/) on August 2022.
 
 His research topics include but are not limited to *Intelligent Security*, *Federated Learning*, *Secure Multiparty Computation*, *Differential Privacy*, and *Machine Learning*.
-
-Note: The contact methods are limited only for the job/research/academic consulting.

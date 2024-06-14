@@ -1,6 +1,6 @@
 ---
 title: Beijing Jiaotong University
-summary: Bachelor of Engineering - Telecommunications
+summary: Bachelor of Engineering - Telecommunications Engineering
 date: 2016-09-01
 type: docs
 math: false
