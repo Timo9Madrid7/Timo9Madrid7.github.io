@@ -83,6 +83,12 @@ education:
       - GPA: 3.62/4.0
       - Outstanding Graduated Student
 work:
+  - position: EngD Software Technology
+    company_name: Technology University of Eindhoven
+    company_url: 'https://www.tue.nl/en/'
+    company_logo: ''
+    date_start: 2024-11-04
+    date_end:
   - position: Barista (coffee bartender part-time)
     company_name: TZL Coffee
     company_url: ''
