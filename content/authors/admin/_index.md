@@ -190,6 +190,11 @@ languages:
 
 ## About Me
 
-Yuhang received his master's degree at [TUDelft](https://www.tudelft.nl/en/) on August 2022.
-
-His research topics include but are not limited to *Intelligent Security*, *Federated Learning*, *Secure Multiparty Computation*, *Differential Privacy*, and *Machine Learning*.
+**Yuhang Tian** earned his bachelor's degree in Telecommunications Engineering from Beijing Jiaotong University
+    and a joint bachelor's degree in Electrical and Electronics Engineering from Lancaster University, China, in 2020.
+In 2022, he graduated cum laude with a master's degree in Embedded Systems from the Cybersecurity group at TU Delft, Netherlands.
+His master's thesis focused on developing a framework for confidential and privacy-preserving neural network training, addressing challenges posed by a *malicious minority*.
+The framework enables both the server and clients to obtain a robustly trained model without centralizing data storage.
+From 2022 to 2023, Yuhang worked as a security researcher at NSFOCUS, a security solution provider,
+    where he contributed to the development of a privacy-preserving computing platform tailored for medical and educational applications.
+His research interests include privacy-preserving data sharing, software development, and machine learning/deep learning.
