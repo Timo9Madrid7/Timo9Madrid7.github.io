@@ -126,20 +126,20 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 100
+        percent: 99
         icon: devicon/python
       - name: Java
         description: ''
-        percent: 80
+        percent: 60
         icon: devicon/java
       - name: JavaScript
         description: ''
-        percent: 20
+        percent: 10
         icon: devicon/javascript
-      - name: Embedded C
+      - name: C++
         description: ''
-        percent: 50
-        icon: devicon/embeddedc
+        percent: 30
+        icon: devicon/cplusplus
   - name: Tech Stacks
     items:
       - name: Pytorch
@@ -148,7 +148,7 @@ skills:
         icon: devicon/pytorch
       - name: Flask
         description: ''
-        percent: 40
+        percent: 60
         icon: devicon/flask 
       - name: Spring Boot
         description: ''
@@ -160,7 +160,7 @@ skills:
         icon: devicon/docker
       - name: React
         description: ''
-        percent: 20
+        percent: 10
         icon: devicon/react
   # - name: Hobbies
   #   items:
@@ -186,6 +186,8 @@ languages:
     percent: 85
   - name: Chinese
     percent: 100
+  - name: Dutch
+    percent: 10
 ---
 
 ## About Me
