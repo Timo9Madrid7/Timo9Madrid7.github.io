@@ -55,7 +55,7 @@ education:
     date_start: 2024-11-04
     date_end: 2026-11-04
     summary: |
-      coming soon
+      - 1st in-house project - CHORAS: The project aims to enhance the usability and functionality of a web-based acoustic simulation platform by addressing key limitations in data export, auralization, and simulation flexibility.
   - area: MSc Embedded Systems - Cybersecurity Group
     institution: Delft University of Technology
     date_start: 2020-08-30
@@ -83,12 +83,12 @@ education:
       - GPA: 3.62/4.0
       - Outstanding Graduated Student
 work:
-  - position: EngD Software Technology
-    company_name: Technology University of Eindhoven
-    company_url: 'https://www.tue.nl/en/'
-    company_logo: ''
-    date_start: 2024-11-04
-    date_end:
+  # - position: EngD Software Technology
+  #   company_name: Technology University of Eindhoven
+  #   company_url: 'https://www.tue.nl/en/'
+  #   company_logo: ''
+  #   date_start: 2024-11-04
+  #   date_end:
   - position: Barista (coffee bartender part-time)
     company_name: TZL Coffee
     company_url: ''
