@@ -1,66 +1,130 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-06-12
+title: ''
+date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: '6rem'
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
+      username: me
+      text: ''
       # Show a call-to-action button under your biography? (optional)
-      # button:
-        # text: Download Resume
-        # url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
     design:
-      css_class: dark
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: bakground.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-  - block: resume-experience
-    id: experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills
-      username: admin
-    design:
-      show_skill_percentage: true
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+        gradient_mesh:
+          enable: true
+
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: balanced # Options: compact (long names), balanced (default), display (short names)
+
+      # Avatar customization
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '🔎 More About Me'
+      title: '📚 My Research'
       subtitle: ''
       text: |-
-        📢 I started playing football ⚽️ when I was in middle school, and this sport has significantly transformed me. The most noticeable change is my appearance. Before discovering football, I was slightly overweight, but I lost a lot of weight after it became one of my hobbies. I also love watching football matches, especially those of <a href="https://www.realmadrid.com">Real Madrid</a>.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I also enjoy watching animations 📺, particularly Japanese ones. The first anime I watched was <a href="https://guilty-crown.jp/">Guilty Crown</a>, and since then, it has become a part of my life. Besides animation, I am passionate about movies, with suspense films being my favorite genre.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
-        Traveling is another activity I find enjoyable. While the beautiful scenery is captivating, what I cherish the most are the people who accompany me on these journeys. I have visited several countries, including France, Spain, and Switzerland (💕).
-
-        When I'm at home, I like to play video and PC games 🎮, especially CS. I've played for over 1,600 hours and have achieved the rank of Master Guardian Elite. I also enjoy a variety of other games. You can check out 👁️ my <a href="https://steamcommunity.com/id/Timo9Madrid7/">Steam profile</a>. If you want to play with me, feel free to add me to your friend list.
+        Please reach out to collaborate 😃
     design:
       columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: blog
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 10
+      # Filter on criteria
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: card
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
+  - block: cta-card
+    demo: true # Only display this section in the Hugo Blox Builder demo site
+    content:
+      title: 👉 Build your own academic website like this
+      text: |-
+        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
+
+        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
+
+        Easily build anything with blocks - no-code required!
+
+        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: 'bg-primary-300 dark:bg-primary-700'
+        css_style: ''
 ---
