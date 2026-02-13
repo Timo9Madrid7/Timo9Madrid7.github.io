@@ -55,7 +55,8 @@ education:
     date_start: 2024-11-04
     date_end: 2026-11-04
     summary: |
-      - 1st in-house project - CHORAS: The project aims to enhance the usability and functionality of a web-based acoustic simulation platform by addressing key limitations in data export, auralization, and simulation flexibility.
+      - Selected for the prestigious 2‑year EngD program at TU/e
+      - Working on a full‑time, salaried technological design project in collaboration with industry, as part of the EngD program
   - area: MSc Embedded Systems - Cybersecurity Group
     institution: Delft University of Technology
     date_start: 2020-08-30
