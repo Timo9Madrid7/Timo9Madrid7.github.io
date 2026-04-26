@@ -90,6 +90,16 @@ work:
   #   company_logo: ''
   #   date_start: 2024-11-04
   #   date_end:
+  - position: Engineering Doctorate (EngD) Trainee
+    company_name: ASML
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: 2026-10-31
+    summary: |
+      - Orchestrated a comprehensive C++ benchmarking framework to evaluate high‑throughput data‑streaming technologies, including Apache Arrow Flight, gRPC, Kafka, NATS, and ZeroMQ.
+      - Analyzed and compared system performance across throughput, resource utilization, and reliability metrics to identify optimal solutions for the Twinscan lithography system.
+      - Engineered and prototyped a high‑performance streaming interface using C++ and Arrow Flight, enabling reliable, large‑volume data transfer within complex system constraints.
   - position: Barista (coffee bartender part-time)
     company_name: TZL Coffee
     company_url: ''
