@@ -117,7 +117,7 @@ work:
     date_start: 2023-09-01
     date_end: 2024-01-31
     summary: |
-      - A rotational program in Cybersecurity | Data Science | Cloud Solutions | IT Architecture
+      - A rotational program in Cybersecurity, Data Science, Cloud Solutions, and IT Architecture
   - position: Security Researcher & Software Engineer
     company_name: NSFocus
     company_url: ''
@@ -125,10 +125,9 @@ work:
     date_start: 2022-11-01
     date_end: 2023-07-31
     summary: |
-      - Traced, reproduced and implemented innovative secure & privacy‑preserving techniques into the private computing platform
-      - Maintained and upgraded the Spring Boot backend of the private computing platform
-      - Designed and developed the Flask backend of the user management system
-      - Traced and wrote blogs for the latest news of federated Learning algorithm
+      - Integrated privacy‑enhancing Federated Learning algorithms into the Private Computing Platform (PCP) to ensure secure data processing.
+      - Engineered and maintained robust backend features for PCP utilizing Java and the Spring Boot framework.
+      - Architected and implemented a scalable RESTful backend for the user & data management system using Python and Flask.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -145,11 +144,11 @@ skills:
         icon: devicon/java
       - name: JavaScript
         description: ''
-        percent: 10
+        percent: 20
         icon: devicon/javascript
       - name: C++
         description: ''
-        percent: 30
+        percent: 60
         icon: devicon/cplusplus
   - name: Tech Stacks
     items:
@@ -167,11 +166,11 @@ skills:
         icon: devicon/spring
       - name: Docker
         description: ''
-        percent: 20
+        percent: 30
         icon: devicon/docker
       - name: React
         description: ''
-        percent: 10
+        percent: 20
         icon: devicon/react
   # - name: Hobbies
   #   items:
@@ -194,7 +193,7 @@ skills:
 
 languages:
   - name: English
-    percent: 85
+    percent: 90
   - name: Chinese
     percent: 100
   - name: Dutch
