@@ -31,14 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yuhangt1an@outlook.com'
+    url: 'mailto:yuhang-tian@outlook.com'
     label: E-mail
   - icon: brands/github
     url: https://github.com/Timo9Madrid7
     lrl: https://scholar.google.com/citations?user=3nkoLDcAAAAJ&hl=en
     label: Google Scholar
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yuhangt1an/
+    url: https://www.linkedin.com/in/yuhangtian
     label: LinkedIn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=3nkoLDcAAAAJ&hl=en
