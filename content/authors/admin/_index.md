@@ -45,9 +45,9 @@ profiles:
     label: Google Scholar
 
 interests:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Full Stack Developing Tech
+  - Software Development
+  - Data Sharing Technology
+  - Machine Learning
 
 education:
   - area: EngD Software Technology
@@ -202,11 +202,12 @@ languages:
 
 ## About Me
 
-**Yuhang Tian** earned his bachelor's degree in Telecommunications Engineering from Beijing Jiaotong University
-    and a joint bachelor's degree in Electrical and Electronics Engineering from Lancaster University, China, in 2020.
-In 2022, he graduated cum laude with a master's degree in Embedded Systems from the Cybersecurity group at TU Delft, Netherlands.
-His master's thesis focused on developing a framework for confidential and privacy-preserving neural network training, addressing challenges posed by a *malicious minority*.
-The framework enables both the server and clients to obtain a robustly trained model without centralizing data storage.
-From 2022 to 2023, Yuhang worked as a security researcher at NSFOCUS, a security solution provider,
-    where he contributed to the development of a privacy-preserving computing platform tailored for medical and educational applications.
-His research interests include privacy-preserving data sharing, software development, and machine learning/deep learning.
+**Yuhang Tian** is a Software Engineer on the Customs Filing Team at Flexport.
+
+He earned his joint bachelor’s degrees in Telecommunications Engineering and Electrical & Electronics Engineering from Beijing Jiaotong University and Lancaster University in 2020. In 2022, he graduated **cum laude** with a master’s degree in Embedded Systems from the Cybersecurity group at TU Delft, Netherlands. His master’s thesis focused on developing a framework for confidential and privacy-preserving neural network training, addressing challenges posed by a malicious minority and enabling robust model training without centralized data storage.
+
+From 2022 to 2023, Yuhang worked as a Security Researcher at NSFOCUS, contributing to the development of a privacy-preserving computing platform tailored for medical and educational applications.
+
+From 2024 to 2026, he completed his Engineering Doctorate (EngD) in Software Technology at Eindhoven University of Technology (TU/e), graduating **cum laude** in 2026. Conducted in collaboration with ASML, his doctorate project was titled *Introducing Data Streaming System Interface for Twinscans*. Following his graduation, he joined Flexport as a Software Engineer, focusing on customs filing software.
+
+His technical interests span software engineering, privacy-preserving data sharing technologies, and machine learning.
