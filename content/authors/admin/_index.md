@@ -55,8 +55,12 @@ education:
     date_start: 2024-11-04
     date_end: 2026-11-04
     summary: |
-      - Selected for the prestigious 2‑year EngD program at TU/e
-      - Working on a full‑time, salaried technological design project in collaboration with industry, as part of the EngD program
+      - Degree thesis: Introducing Data Streaming System Interface for Twinscans @ASML 
+      - Cum Laude Graduate
+      - Three in-house projects (2 months each):
+        - Web-based acoustic simulation software @CHORAS
+        - Self-Driving Lab: Web-based drag-and-drop UI @Differ
+        - Framework for Integrated Collaborative Modelling @Canon
   - area: MSc Embedded Systems - Cybersecurity Group
     institution: Delft University of Technology
     date_start: 2020-08-30
@@ -64,7 +68,7 @@ education:
     summary: |
       - Degree thesis: FLVoogd ‑ Robust AndPrivacy Preserving Federated Learning
       - GPA: Courses:8/10 | Thesis:9/10 | AVG: 8.4/10
-      - CumLaude Graduate
+      - Cum Laude Graduate
     button:
       text: "Link to thesis"
       url: "https://repository.tudelft.nl/islandora/object/uuid%3A7d7f279c-61b9-4739-b03c-637f065d460d?collection=education"
