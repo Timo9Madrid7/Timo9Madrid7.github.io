@@ -35,24 +35,34 @@ sections:
     content:
       username: admin
     design:
+      css_class: resume-col-left resume-only-experience
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-      columns: '2'
+  - block: resume-experience
+    id: education
+    content:
+      username: admin
+    design:
+      css_class: resume-col-right resume-only-education
+      # Hugo date format
+      date_format: 'January 2006'
+      # Keep source order as Experience then Education; CSS will hide Experience in this block.
+      is_education_first: false
   - block: resume-skills
     id: skills
     content:
       title: Skills
       username: admin
     design:
+      css_class: resume-col-full
       show_skill_percentage: true
-      columns: '2'
   - block: resume-languages
     id: languages
     content:
       title: Languages
       username: admin
     design:
-      columns: '2'
+      css_class: resume-col-full
 ---
