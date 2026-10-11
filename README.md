@@ -1,6 +1,6 @@
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ea8a550-553b-4c84-ab64-bd50cac8e795" />
 
 The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
