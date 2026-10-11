@@ -134,22 +134,26 @@ work:
 skills:
   - name: Programming
     items:
+      - name: C++
+        description: ''
+        percent: 80
+        icon: devicon/cplusplus
+      - name: Kotlin
+        description: ''
+        percent: 30
+        icon: devicon/kotlin
       - name: Python
         description: ''
         percent: 99
         icon: devicon/python
       - name: Java
         description: ''
-        percent: 60
+        percent: 50
         icon: devicon/java
       - name: JavaScript
         description: ''
         percent: 20
         icon: devicon/javascript
-      - name: C++
-        description: ''
-        percent: 60
-        icon: devicon/cplusplus
   - name: Tech Stacks
     items:
       - name: Pytorch
