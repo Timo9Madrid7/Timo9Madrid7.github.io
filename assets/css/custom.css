@@ -1,0 +1,73 @@
+#section-resume-biography-3 .max-w-7xl {
+  max-width: 90rem;
+}
+
+#section-resume-biography-3 {
+  padding-top: 2rem !important;
+}
+
+#section-resume-biography-3 .resume-biography {
+  padding-top: 3rem !important;
+}
+
+#section-resume-biography-3 .avatar-wrapper {
+  width: 15rem !important;
+  height: 15rem !important;
+}
+
+#section-resume-biography-3 .avatar-wrapper > img.avatar {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+#section-resume-biography-3 .prose,
+#section-resume-biography-3 .bio-text {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+#section-resume-biography-3 .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 .flex-1 {
+  min-width: 0;
+}
+
+#section-resume-biography-3 .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 > div p.text-xl {
+  font-size: 1.125rem;
+  line-height: 1.4;
+}
+
+@media (min-width: 1280px) {
+  #section-resume-biography-3 .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1200px) {
+  section.resume-col-left,
+  section.resume-col-right {
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    clear: none;
+  }
+
+  section.resume-col-left {
+    padding-right: 1.5rem;
+  }
+
+  section.resume-col-right {
+    padding-left: 1.5rem;
+  }
+
+  section.resume-col-full {
+    clear: both;
+    width: 100%;
+  }
+}
+
+section.resume-only-experience .flex.flex-col.lg\:gap-x-6.w-full.px-6.sm\:px-0 > div.w-full:nth-child(2) {
+  display: none;
+}
+
+section.resume-only-education .flex.flex-col.lg\:gap-x-6.w-full.px-6.sm\:px-0 > div.w-full:nth-child(1) {
+  display: none;
+}

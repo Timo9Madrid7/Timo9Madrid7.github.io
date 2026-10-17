@@ -208,8 +208,6 @@ languages:
     percent: 10
 ---
 
-## About Me
-
 **Yuhang Tian** is a Software Engineer on the Customs Filing Team at Flexport.
 
 He earned his joint bachelor’s degrees in Telecommunications Engineering and Electrical & Electronics Engineering from Beijing Jiaotong University and Lancaster University in 2020. In 2022, he graduated **cum laude** with a master’s degree in Embedded Systems from the Cybersecurity group at TU Delft, Netherlands. His master’s thesis focused on developing a framework for confidential and privacy-preserving neural network training, addressing challenges posed by a malicious minority and enabling robust model training without centralized data storage.
