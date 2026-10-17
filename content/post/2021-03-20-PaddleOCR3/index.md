@@ -15,10 +15,7 @@ authors:
   - Mingyu Gao
 
 tags:
-  - ocr
-  - baidu
-  - paddle
-  - cv
+  - blog
 ---
 
 ## Abstract

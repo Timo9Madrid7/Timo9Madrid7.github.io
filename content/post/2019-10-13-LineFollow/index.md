@@ -13,11 +13,7 @@ authors:
   - Gengwu Du
 
 tags:
-  - arduino atmega328p
-  - intelligent robot
-  - line following
-  - pid control
-  - ultrasonic navigation
+  - academic paper
 ---
 
 ## Abstract

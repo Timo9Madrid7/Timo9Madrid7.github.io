@@ -71,3 +71,118 @@ section.resume-only-experience .flex.flex-col.lg\:gap-x-6.w-full.px-6.sm\:px-0 >
 section.resume-only-education .flex.flex-col.lg\:gap-x-6.w-full.px-6.sm\:px-0 > div.w-full:nth-child(1) {
   display: none;
 }
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  #experience {
+    scroll-margin-top: 6rem;
+  }
+
+  @view-transition {
+    navigation: auto;
+  }
+
+  ::view-transition-old(root) {
+    animation: page-transition-out 160ms ease-in both;
+  }
+
+  ::view-transition-new(root) {
+    animation: page-transition-in 360ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+
+  .navbar .nav-link {
+    position: relative;
+    isolation: isolate;
+    border-radius: 9999px;
+    transition:
+      color 220ms ease,
+      background-color 260ms ease,
+      transform 260ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .navbar .nav-link::before {
+    position: absolute;
+    z-index: -1;
+    inset: 0.15rem 0;
+    border-radius: inherit;
+    background: radial-gradient(ellipse at center, rgb(96 165 250 / 16%), transparent 75%);
+    content: "";
+    opacity: 0;
+    transform: scale(0.8);
+    transition:
+      opacity 260ms ease,
+      transform 360ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .navbar .nav-link::after {
+    position: absolute;
+    right: 25%;
+    bottom: 0.2rem;
+    left: 25%;
+    height: 2px;
+    border-radius: 9999px;
+    background: linear-gradient(90deg, #60a5fa, #c084fc);
+    content: "";
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 320ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .navbar .nav-link:hover,
+  .navbar .nav-link:focus-visible {
+    color: #bfdbfe;
+    transform: translateY(-2px);
+  }
+
+  .navbar .nav-link:hover::before,
+  .navbar .nav-link:focus-visible::before {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  .navbar .nav-link:hover::after,
+  .navbar .nav-link:focus-visible::after,
+  .navbar .nav-link.active::after {
+    transform: scaleX(1);
+  }
+
+  .navbar .nav-link:focus-visible {
+    outline: 2px solid #93c5fd;
+    outline-offset: 3px;
+  }
+
+  .navbar .nav-link:active {
+    transform: translateY(0) scale(0.96);
+  }
+
+  @keyframes page-transition-in {
+    from {
+      opacity: 0;
+      transform: translateY(0.75rem) scale(0.995);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+
+  @keyframes page-transition-out {
+    to {
+      opacity: 0;
+      transform: translateY(-0.25rem) scale(1.005);
+    }
+  }
+}
+
+body {
+  caret-color: transparent;
+}
+
+input,
+textarea,
+[contenteditable="true"] {
+  caret-color: auto;
+}

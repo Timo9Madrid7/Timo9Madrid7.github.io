@@ -12,8 +12,8 @@ authors:
   - admin
 
 tags:
-  - house finding
-  - Eindhoven
+  - vlog
+  - video
 ---
 
 ## Video

@@ -16,9 +16,8 @@ authors:
   - Liang Kaitai
 
 tags:
-  - federated learning
-  - secure-multi-party computation
-  - differential privacy
+  - academic paper
+  - thesis
 ---
 
 ## Abstract
