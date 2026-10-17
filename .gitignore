@@ -41,6 +41,9 @@ node_modules/
 # Generated Content
 # ============================================================================
 
+# VS Code settings
+.vscode/
+
 # Pagefind search index
 pagefind/
 static/pagefind/
