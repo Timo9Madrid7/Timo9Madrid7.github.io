@@ -4,7 +4,7 @@ summary: My educational details
 type: landing
 
 cascade:
-  - _target:
+  - target:
       kind: page
     params:
       show_breadcrumb: true

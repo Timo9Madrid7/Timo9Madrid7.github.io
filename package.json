@@ -1,0 +1,17 @@
+{
+  "name": "timo9madrid7-github-io",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "pagefind": "pagefind --site public"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "4.3.3",
+    "@tailwindcss/typography": "0.5.20",
+    "pagefind": "1.5.2",
+    "tailwindcss": "4.3.3"
+  }
+}
